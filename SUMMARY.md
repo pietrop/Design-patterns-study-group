@@ -2,6 +2,7 @@
 
 ## Guidelines
 
+* [Introduction](README.md)
 * [Patterns and Anti-Patterns](patterns-and-anti-patterns.md)
 * [How to describe a design pattern](how-to-describe-a-design-pattern.md)
 * [How to choose a design pattern](how-to-choose-a-design-pattern.md)
@@ -39,7 +40,7 @@
 
 ## Leftover Patterns
 
-* The Compound Pattern
+* [The Compound Pattern](leftover-patterns/the-compound-pattern.md)
 
 ## MV\* Patterns
 
@@ -71,6 +72,4 @@
 * [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 * [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314)
 * [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
-
-
 
