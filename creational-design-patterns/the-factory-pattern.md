@@ -1,4 +1,4 @@
-## The Abstract Factory Pattern
+## The Factory Pattern
 
 ## Intent
 

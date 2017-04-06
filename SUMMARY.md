@@ -10,7 +10,7 @@
 
 ## Creational Design Patterns
 
-* The Factory Pattern
+* [The Factory Pattern](creational-design-patterns/the-factory-pattern.md)
 * [The Abstract Factory Pattern](creational-design-patterns/the-factory-pattern-and-the-abstract-factory-pattern.md)
 * [The Builder Pattern](creational-design-patterns/the-builder-pattern.md)
 * [The Prototype Pattern](creational-design-patterns/the-prototype-pattern.md)
@@ -76,6 +76,4 @@
 * [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 * [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314)
 * [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
-
-
 
