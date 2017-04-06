@@ -41,10 +41,6 @@
 * [The Template Method Pattern](behavioral-design-patterns/the-template-method-pattern.md)
 * [The Visitor Pattern  ](behavioral-design-patterns/the-visitor-pattern.md)
 
-## Leftover Patterns
-
-* [The Compound Pattern](leftover-patterns/the-compound-pattern.md)
-
 ## MV\* Patterns
 
 * [The MVC Pattern](mv-patterns/the-mvc-pattern.md)
@@ -76,4 +72,6 @@
 * [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 * [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314)
 * [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
+
+
 
