@@ -2,8 +2,6 @@
 
 This book is an ambitious attempt to have an extensive guide on OO design pattern with real examples of implementation.
 
-
-
 This is the list of the Gang of 4's suggested patterns to start with:
 
 * **The Factory Pattern and the Abstract Factory Pattern**
@@ -13,8 +11,6 @@ This is the list of the Gang of 4's suggested patterns to start with:
 * **The Observer Pattern and  Publishers + Subscriber**
 * **The Strategy Pattern**
 * **The Template Method Pattern**
-
-
 
 An alternative list may be:
 
@@ -31,20 +27,15 @@ An alternative list may be:
 * **The Proxy Pattern**
 * **The MVC**
 
-
-
 If you are a JS developer you may want to take also into account the following:
 
 * **The Prototype Pattern**
-
 * **The State Pattern**
 * **The Constructor Pattern**
 * **The Module Pattern**
 * **The Revealing Module Pattern**
 * **The Mixin Pattern**
 * **The Namespacing Patterns**
-
-
 
 And if you are a Node.js developer you may want know as well:
 
