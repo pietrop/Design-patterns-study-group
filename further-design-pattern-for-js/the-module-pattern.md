@@ -6,13 +6,13 @@ This pattern is used to allow loose coupling having particular piece of code ind
 
 ## Motivation
 
-The **module pattern **is used to implement the concept of [software module](https://en.wiktionary.org/wiki/Software_module), defined by [modular programming](https://en.wikipedia.org/wiki/Modular_programming), in a [programming language](https://en.wikipedia.org/wiki/Programming_language) with incomplete direct support for the concept. 
+The **module pattern **is used to implement the concept of [software module](https://en.wiktionary.org/wiki/Software_module), defined by [modular programming](https://en.wikipedia.org/wiki/Modular_programming), in a [programming language](https://en.wikipedia.org/wiki/Programming_language) with incomplete direct support for the concept.
 
-Having an application organized like so it is very useful for allowing scalability.
+Having an application organized like so it is very useful for scalability.
 
 ## Applicability
 
-Offering _encapsulation _it avoids that states and behaviour of the classes that implement it could be accessed from the outside. Furthermore it can be used to avoid pollution of the global namespace.
+Offering \_encapsulation \_it avoids that states and behaviour of the classes that implement it could be accessed from the outside. Furthermore it can be used to avoid pollution of the global namespace.
 
 ## Structure
 
