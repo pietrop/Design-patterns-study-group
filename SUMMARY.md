@@ -37,7 +37,9 @@
 * [The Template Method Pattern](behavioral-design-patterns/the-template-method-pattern.md)
 * [The Visitor Pattern  ](behavioral-design-patterns/the-visitor-pattern.md)
 
-## Compound Patterns
+## Leftover Patterns
+
+* The Compound Pattern
 
 ## MV\* Patterns
 
