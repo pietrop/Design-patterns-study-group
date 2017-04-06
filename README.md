@@ -2,8 +2,6 @@
 
 This book is an ambitious attempt to have an extensive guide on OO design pattern with real examples of implementation.
 
-
-
 This is the list of the Gang of 4's suggested patterns to start with:
 
 * **The Factory Pattern and the Abstract Factory Pattern**
@@ -38,7 +36,7 @@ The State Pattern
 
 The Proxy Pattern
 
-The Compound Patterns
+The MVC
 
 If you are a JS developer you may want to take into account the following:
 
