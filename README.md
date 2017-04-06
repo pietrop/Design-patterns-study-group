@@ -1,3 +1,3 @@
-# My Awesome Book
+# Design Pattern Study Group
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is an ambitious attempt to have an extensive guide on OO design pattern with real examples of implementation.
