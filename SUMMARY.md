@@ -65,11 +65,7 @@
 
 * [https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8) [https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
-
-
 * JS Design Pattern [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Node.js Design Pattern [https://blog.risingstack.com/fundamental-node-js-design-patterns/](https://blog.risingstack.com/fundamental-node-js-design-patterns/) Node.js Design Pattern [https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314)
-
-
 
 * [https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) [http://www.blackwasp.co.uk/gofpatterns.aspx](http://www.blackwasp.co.uk/gofpatterns.aspx) [https://en.wikipedia.org/wiki/Design\_Patterns](https://en.wikipedia.org/wiki/Design_Patterns) [https://en.wikipedia.org/wiki/Enterprise\_Integration\_Patterns](https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns)
 
