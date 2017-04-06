@@ -40,7 +40,7 @@ How the participants collaborate to carry out their responsibilities.
 
 ## Sample Code
 
-The repo is at https://github.com/andrixb/js\_design\_patterns/tree/FURTHER-DP-FOR-JS/Module
+The repo is at [https://github.com/andrixb/js\_design\_patterns/tree/FURTHER-DP-FOR-JS/Module](https://github.com/andrixb/js_design_patterns/tree/FURTHER-DP-FOR-JS/Module)
 
 ```js
 (function() {
@@ -52,7 +52,7 @@ The repo is at https://github.com/andrixb/js\_design\_patterns/tree/FURTHER-DP-F
     window[APP_NAMESPACE] = window[APP_NAMESPACE] || {};
 
     window[APP_NAMESPACE][MODULE_NAME] = function() {
-        // It hosts module states
+        // It hosts module state
         var _$ = {};
 
         // Initial module configuration
@@ -79,7 +79,6 @@ The repo is at https://github.com/andrixb/js\_design\_patterns/tree/FURTHER-DP-F
         };
     };
 })();
-
 ```
 
 ## Known Uses
