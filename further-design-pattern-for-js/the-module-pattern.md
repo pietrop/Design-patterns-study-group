@@ -2,26 +2,17 @@
 
 ## Intent
 
-A short statement that answers the following questions:
-
-* What does the design pattern do?
-* What is its rationale and intent?
-* What particular design issue or problem does it address?
-
-## Also Known As
-
-Other well-known names for the pattern, if any.
+This pattern is used to allow loose coupling having particular piece of code independent from other components.
 
 ## Motivation
 
-A scenario that illustrates a design problem and how the class and object structures in the pattern solve the problem.  
-The scenario will help you understand the more abstract description of the pattern that follows.
+The **module pattern **is used to implement the concept of [software module](https://en.wiktionary.org/wiki/Software_module), defined by [modular programming](https://en.wikipedia.org/wiki/Modular_programming), in a [programming language](https://en.wikipedia.org/wiki/Programming_language) with incomplete direct support for the concept. 
+
+Having an application organized like so it is very useful for allowing scalability.
 
 ## Applicability
 
-* What are the situations in which the design pattern can be applied?
-* What are examples of poor designs that the pattern can address?
-* How can you recognise these situations?
+Offering _encapsulation _it avoids that states and behaviour of the classes that implement it could be accessed from the outside. Furthermore it can be used to avoid pollution of the global namespace.
 
 ## Structure
 
