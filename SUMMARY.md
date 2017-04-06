@@ -47,7 +47,7 @@
 * [The MVP Pattern](mv-patterns/the-mvp-pattern.md)
 * [The MVVM Pattern](mv-patterns/the-mvvm-pattern.md)
 
-## Further Design Pattern for JS
+## Further Design Patterns for JS
 
 * [The Constructor Pattern](further-design-pattern-for-js/the-constructor-pattern.md)
 * [The Module Pattern](further-design-pattern-for-js/the-module-pattern.md)
@@ -65,11 +65,12 @@
 
 ## Study Material
 
-* [https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8)
-* [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
-* Further readings
-* [http://ui-patterns.com/patterns](http://ui-patterns.com/patterns)
+* [Design Patterns: Elements of Reusable Object-Oriented Software ](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8)
+* [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
+* [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314)
+* [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
 
 
 
