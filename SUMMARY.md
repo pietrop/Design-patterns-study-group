@@ -1,6 +1,6 @@
 # Summary
 
-## Introduction
+## Guidelines
 
 * [Patterns and Anti-Patterns](patterns-and-anti-patterns.md)
 * [How to describe a design pattern](how-to-describe-a-design-pattern.md)
