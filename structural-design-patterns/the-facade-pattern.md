@@ -1,4 +1,4 @@
-## The Bridge Pattern
+## The Facade Pattern
 
 ## Intent
 

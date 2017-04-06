@@ -19,7 +19,7 @@
 ## Structural Design Patterns
 
 * [The Adapter  ](structural-design-patterns/the-adapter-and-facade-patterns.md)
-* The Facade Pattern
+* [The Facade Pattern](structural-design-patterns/the-facade-pattern.md)
 * [The Bridge Pattern](structural-design-patterns/the-bridge-pattern.md)
 * [The Composite Patterns \(and the Iterator\)](structural-design-patterns/the-composite-patterns-and-the-iterator.md)
 * [The Decorator Pattern](structural-design-patterns/the-decorator-pattern.md)
