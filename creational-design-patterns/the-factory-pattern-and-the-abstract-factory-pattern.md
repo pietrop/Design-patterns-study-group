@@ -1,7 +1,4 @@
-## Name
-
-The pattern's name conveys the essence of the pattern succinctly.  
-A good name is vital, because it will become part of your design vocabulary.
+## The Factory Pattern
 
 ## Intent
 
