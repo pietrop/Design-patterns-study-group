@@ -1,5 +1,7 @@
 # Summary
 
+## Introduction
+
 * Patterns and Anti-Patterns
 * How to describe a design pattern
 * How to choose a design pattern
