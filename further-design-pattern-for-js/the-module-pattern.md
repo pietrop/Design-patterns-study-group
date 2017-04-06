@@ -12,7 +12,7 @@ Having an application organized like so it is very useful for scalability.
 
 ## Applicability
 
-Offering \_encapsulation \_it avoids that states and behaviour of the classes that implement it could be accessed from the outside. Furthermore it can be used to avoid pollution of the global namespace.
+Offering _encapsulation_ it avoids that states and behaviour of the classes that implement it could be accessed from the outside. Furthermore it can be used to avoid pollution of the global namespace.
 
 ## Structure
 
@@ -40,8 +40,47 @@ How the participants collaborate to carry out their responsibilities.
 
 ## Sample Code
 
-Code fragments that illustrate how you might implement the pattern in JavaScript or Java.  
-\(Make yourself sure to have GitHub repo which hosts real working examples. So list the link to repo here\)
+The repo is at https://github.com/andrixb/js\_design\_patterns/tree/FURTHER-DP-FOR-JS/Module
+
+```js
+(function() {
+    'use strict';
+
+    var MODULE_NAME = 'modulePattern',
+        APP_NAMESPACE = 'appNamespace';
+
+    window[APP_NAMESPACE] = window[APP_NAMESPACE] || {};
+
+    window[APP_NAMESPACE][MODULE_NAME] = function() {
+        // It hosts module states
+        var _$ = {};
+
+        // Initial module configuration
+        var _config = {
+            text: '.' + MODULE_NAME + '__text'
+        };
+
+        function _changeTextContent() {
+            _$.text = _$.element.querySelector(_config.text);
+            _$.text.innerHTML = _$.newText;
+        };
+
+        return {
+            init: function(element) {
+                _$.element = element;
+            },
+            newTextToChange: function(newText) {
+                _$.newText = newText;
+                _changeTextContent();
+            },
+            destroy: function() {
+                _$.element = null;
+            }
+        };
+    };
+})();
+
+```
 
 ## Known Uses
 
