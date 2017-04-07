@@ -8,21 +8,17 @@ Implements a prototype interface which tells to create a shallow clone of the cu
 
 ## Motivation
 
-One use case could be when performing an extensive database operation to crate object that will be used in other part of the application. 
+One use case could be when performing an extensive database operation to crate object that will be used in other part of the application.
 
 If another process needs it, rather than perform this db operation it's more convenient to clone the previous created object.
 
-
-
-In general it can be used to reduce the number of classes. 
+In general it can be used to reduce the number of classes.
 
 By instantiating the prototype interface, through the inheritance properties and methods are afterwards extended by the instances that use it.
 
 ## Applicability
 
 > Use the Prototype pattern when a system should be independent of how its products are created, composed, and represented
-
-
 
 ## Structure
 
@@ -50,8 +46,28 @@ How the participants collaborate to carry out their responsibilities.
 
 ## Sample Code
 
-Code fragments that illustrate how you might implement the pattern in JavaScript or Java.  
-\(Make yourself sure to have GitHub repo which hosts real working examples. So list the link to repo here\)
+The repo is here: https://github.com/andrixb/js\_design\_patterns/tree/CREATIONAL-DP/Prototype
+
+```js
+(function () {
+    var imgElement = document.querySelector('.image__element');
+    var IMG_URL = 'http://placehold.it/350x150';
+    var newObj = null;
+
+    function MainObject(url) {
+        this.url = url;
+    }
+
+    MainObject.prototype = {
+        assignSrc: function (element) {
+            element.setAttribute('src', this.url);
+        }
+    };
+
+    newObj = new MainObject(IMG_URL);
+    newObj.assignSrc(imgElement);
+})();
+```
 
 ## Known Uses
 
