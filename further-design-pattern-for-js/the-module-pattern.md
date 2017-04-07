@@ -52,7 +52,7 @@ The repo is at [https://github.com/andrixb/js\_design\_patterns/tree/FURTHER-DP-
     window[APP_NAMESPACE] = window[APP_NAMESPACE] || {};
 
     window[APP_NAMESPACE][MODULE_NAME] = function() {
-        // It hosts module state
+        // It hosts module states
         var _$ = {};
 
         // Initial module configuration
@@ -66,10 +66,8 @@ The repo is at [https://github.com/andrixb/js\_design\_patterns/tree/FURTHER-DP-
         };
 
         return {
-            init: function(element) {
+            init: function(element, newText) {
                 _$.element = element;
-            },
-            newTextToChange: function(newText) {
                 _$.newText = newText;
                 _changeTextContent();
             },
