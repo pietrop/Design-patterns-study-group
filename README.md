@@ -25,7 +25,19 @@ An alternative list may be:
 * **The Iterator and Composite Patterns**
 * **The State Pattern**
 * **The Proxy Pattern**
-* **The MVC**
+* **The MVC Pattern**
+
+But if you are seriously looking for a bunch of essentials to know:
+
+* **The Singleton Pattern**
+* **The Composite Pattern**
+* **The Façade Pattern**
+* **The Adapter Pattern **
+* **The Decorator Pattern**
+* **The Factory Pattern**
+* **The Proxy Pattern **
+* **The Observer Pattern**
+* **The Command Pattern**
 
 If you are a JS developer you may want to take also into account the following:
 
@@ -47,6 +59,17 @@ And if you are a Node.js developer you may want know as well:
 * **The Pipelines Pattern**
 * **The Task Distribution Pattern**
 * **The Request/Reply Pattern**
+
+And if you are looking for deisgn pattern in JS for the modern days this list may help you out: 
+
+* **The Module Pattern**
+* **The Revealing Module Pattern**
+* **The Singleton Pattern**
+* **The Observer Pattern**
+* **The Mediator Pattern**
+* **The Prototype Pattern**
+* **The Facade Pattern**
+* **The Factory Pattern**
 
 
 
