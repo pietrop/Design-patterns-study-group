@@ -34,8 +34,8 @@
 * [The Iterator Pattern](behavioral-design-patterns/the-iterator-pattern.md)
 * [The Mediator Pattern](behavioral-design-patterns/the-mediator-pattern.md)
 * [The Memento Pattern](behavioral-design-patterns/the-memento-pattern.md)
-* [The Observer Pattern ](behavioral-design-patterns/the-observer-pattern-and-publishers-+-subscriber.md)
-* [The Publishers + Subscriber](behavioral-design-patterns/the-observer-pattern-and-publishers-+-subscriber.md)
+* The Observer Pattern 
+* The Publishers + Subscriber
 * [The State Pattern](behavioral-design-patterns/the-state-pattern.md)
 * [The Strategy Pattern](behavioral-design-patterns/the-strategy-pattern.md)
 * [The Template Method Pattern](behavioral-design-patterns/the-template-method-pattern.md)
