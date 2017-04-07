@@ -2,11 +2,9 @@
 
 ## Intent
 
-_A short statement that answers the following questions:_
+This pattern is a variation of the observer pattern. The idea here is to avoid dependencies between the subscriber and publisher
 
-* _What does the design pattern do?_
-* _What is its rationale and intent?_
-* _What particular design issue or problem does it address?_
+It uses events to put in communication the objects. A publisher triggers an event and the subscribers capture it.
 
 ## Also Known As
 
@@ -28,7 +26,7 @@ The scenario will help you understand the more abstract description of the patte
 _A graphical representation of the classes in the pattern using a notation based on the Unified Modeling Language \(UML\).  
 We also use interaction diagrams to illustrate sequences of requests and collaborations between objects._
 
-_You can use ArgoUML as a free software to create UML class diagrams \(_[_http://argouml.tigris.org/\_](http://argouml.tigris.org/\)_\) or give a look at this list _[_https://en.wikipedia.org/wiki/List\_of\_Unified\_Modeling\_Language\_tools_](https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools)
+_You can use ArgoUML as a free software to create UML class diagrams \(_[_http://argouml.tigris.org/\_](http://argouml.tigris.org/%29_\) or give a look at this list _\[\__[https://en.wikipedia.org/wiki/List\_of\_Unified\_Modeling\_Language\_tools](https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools)\]\([https://en.wikipedia.org/wiki/List\_of\_Unified\_Modeling\_Language\_tools](https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools)\)
 
 ## Participants
 
@@ -51,7 +49,7 @@ _How the participants collaborate to carry out their responsibilities._
 
 ## Sample Code
 
-The repo is here: https://github.com/andrixb/js\_design\_patterns/tree/BEHAVIORAL-DP/PublishSubscribe
+The repo is here: [https://github.com/andrixb/js\_design\_patterns/tree/BEHAVIORAL-DP/PublishSubscribe](https://github.com/andrixb/js_design_patterns/tree/BEHAVIORAL-DP/PublishSubscribe)
 
 `publisher`
 
@@ -125,7 +123,8 @@ The repo is here: https://github.com/andrixb/js\_design\_patterns/tree/BEHAVIORA
         function _getTextElement() {
             _$.text = _$.element.querySelector(_config.textElement);
         }
-
+        
+        // Listen to the custom event
         function _addEvent() {
             document.addEventListener('notify', function(event) {
                 _$.text.innerHTML = event.detail;
