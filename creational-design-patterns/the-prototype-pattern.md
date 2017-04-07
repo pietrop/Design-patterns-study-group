@@ -2,26 +2,27 @@
 
 ## Intent
 
-A short statement that answers the following questions:
+Implements a prototype interface which tells to create a shallow clone of the current object.
 
-* What does the design pattern do?
-* What is its rationale and intent?
-* What particular design issue or problem does it address?
-
-## Also Known As
-
-Other well-known names for the pattern, if any.
+\[Through a prototypical interface it specifies the kinds of object to create, and creates new objects by copying this prototype.\]
 
 ## Motivation
 
-A scenario that illustrates a design problem and how the class and object structures in the pattern solve the problem.  
-The scenario will help you understand the more abstract description of the pattern that follows.
+One use case could be when performing an extensive database operation to crate object that will be used in other part of the application. 
+
+If another process needs it, rather than perform this db operation it's more convenient to clone the previous created object.
+
+
+
+In general it can be used to reduce the number of classes. 
+
+By instantiating the prototype interface, through the inheritance properties and methods are afterwards extended by the instances that use it.
 
 ## Applicability
 
-* What are the situations in which the design pattern can be applied?
-* What are examples of poor designs that the pattern can address?
-* How can you recognise these situations?
+> Use the Prototype pattern when a system should be independent of how its products are created, composed, and represented
+
+
 
 ## Structure
 
