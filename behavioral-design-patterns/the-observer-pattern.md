@@ -2,15 +2,11 @@
 
 ## Intent
 
-_A short statement that answers the following questions:_
-
-* _What does the design pattern do?_
-* _What is its rationale and intent?_
-* _What particular design issue or problem does it address?_
+> Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 
 ## Also Known As
 
-_Other well-known names for the pattern, if any._
+Dependents, Publish-Subscribe
 
 ## Motivation
 
