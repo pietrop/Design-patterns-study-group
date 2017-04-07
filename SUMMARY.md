@@ -72,6 +72,7 @@
 * [Common JS Design Patterns](https://carldanley.com/javascript-design-patterns)
 * [Common JS Design Patters - Part 1/3 \(adobe.com\)](http://www.adobe.com/devnet/archive/html5/articles/javascript-design-patterns-pt1-singleton-composite-facade.html)
 * [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
+* [JS The Module Pattern Edition](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)
 * [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314)
 * [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
 
