@@ -22,31 +22,31 @@ By instantiating the prototype interface, through the inheritance properties and
 
 ## Structure
 
-A graphical representation of the classes in the pattern using a notation based on the Unified Modeling Language \(UML\).  
-We also use interaction diagrams to illustrate sequences of requests and collaborations between objects.
+_A graphical representation of the classes in the pattern using a notation based on the Unified Modeling Language \(UML\).  
+We also use interaction diagrams to illustrate sequences of requests and collaborations between objects._
 
 ## Participants
 
-The classes and/or objects participating in the design pattern and their responsibilities.
+_The classes and/or objects participating in the design pattern and their responsibilities._
 
 ## Collaborations
 
-How the participants collaborate to carry out their responsibilities.
+_How the participants collaborate to carry out their responsibilities._
 
 ## Consequences \(aka Pros and Cons\)
 
-* How does the pattern support its objectives?
-* What are the trade-offs and results of using the pattern?
-* What aspect of system structure does it let you vary independently?
+* _How does the pattern support its objectives?_
+* _What are the trade-offs and results of using the pattern?_
+* _What aspect of system structure does it let you vary independently?_
 
 ## Implementation
 
-* What pitfalls, hints, or techniques should you be aware of when implementing the pattern?
-* Are there language-specific issues?
+* _What pitfalls, hints, or techniques should you be aware of when implementing the pattern?_
+* _Are there language-specific issues?_
 
 ## Sample Code
 
-The repo is here: https://github.com/andrixb/js\_design\_patterns/tree/CREATIONAL-DP/Prototype
+The repo is here: [https://github.com/andrixb/js\_design\_patterns/tree/CREATIONAL-DP/Prototype](https://github.com/andrixb/js_design_patterns/tree/CREATIONAL-DP/Prototype)
 
 ```js
 (function () {
@@ -71,14 +71,14 @@ The repo is here: https://github.com/andrixb/js\_design\_patterns/tree/CREATIONA
 
 ## Known Uses
 
-Examples of the pattern found in real systems.  
-We include at least two examples from different domains.
+_Examples of the pattern found in real systems.  
+We include at least two examples from different domains._
 
 ## Related Patterns
 
-* What design patterns are closely related to this one?
-* What are the important differences?
-* With which other patterns should this one be used?
+* _What design patterns are closely related to this one?_
+* _What are the important differences?_
+* _With which other patterns should this one be used?_
 
 
 
