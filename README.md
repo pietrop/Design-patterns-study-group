@@ -60,7 +60,7 @@ And if you are a Node.js developer you may want know as well:
 * **The Task Distribution Pattern**
 * **The Request/Reply Pattern**
 
-And if you are looking for deisgn pattern in JS for the modern days this list may help you out: 
+And if you are looking for deisgn pattern in JS for the modern days this list may help you out:
 
 * **The Module Pattern**
 * **The Revealing Module Pattern**
@@ -70,6 +70,8 @@ And if you are looking for deisgn pattern in JS for the modern days this list ma
 * **The Prototype Pattern**
 * **The Facade Pattern**
 * **The Factory Pattern**
+
+And don't forget** The Module View Controller**!
 
 
 
