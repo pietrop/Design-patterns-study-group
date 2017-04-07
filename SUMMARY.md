@@ -34,8 +34,8 @@
 * [The Iterator Pattern](behavioral-design-patterns/the-iterator-pattern.md)
 * [The Mediator Pattern](behavioral-design-patterns/the-mediator-pattern.md)
 * [The Memento Pattern](behavioral-design-patterns/the-memento-pattern.md)
-* The Observer Pattern 
-* The Publishers + Subscriber
+* [The Observer Pattern ](behavioral-design-patterns/the-observer-pattern.md)
+* [The Publishers + Subscriber](behavioral-design-patterns/the-publishers-+-subscriber.md)
 * [The State Pattern](behavioral-design-patterns/the-state-pattern.md)
 * [The Strategy Pattern](behavioral-design-patterns/the-strategy-pattern.md)
 * [The Template Method Pattern](behavioral-design-patterns/the-template-method-pattern.md)
@@ -72,6 +72,4 @@
 * [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 * [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1783287314)
 * [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
-
-
 
